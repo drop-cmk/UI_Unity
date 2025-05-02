@@ -1,18 +1,5 @@
-# These are supported funding model platforms
+github: drop-cmk # Thay bằng tên tài khoản GitHub của bạn.
 
-github: 
-  - drop-cmk # Thay thế bằng tên tài khoản GitHub của bạn để nhận tài trợ hoặc đóng góp mã nguồn.
-patreon: your-patreon-username # Thay bằng tên người dùng trên Patreon.
-open_collective: your-open-collective-name # Thay bằng tên nhóm Open Collective.
-ko_fi: your-ko-fi-drop-cmk # Thay bằng tên người dùng trên Ko-fi.
-tidelift: npm/your-package-drop-cmk # Thay bằng gói trên Tidelift.
-community_bridge: your-community-bridge-drop-cmk # Thay bằng dự án trên Community Bridge.
-liberapay: your-liberapay-drop-cmk # Thay bằng tên người dùng Liberapay.
-issuehunt: your-issuehunt-drop-cmk # Thay bằng tên người dùng IssueHunt.
-lfx_crowdfunding: UI-Unity # Thay bằng tên dự án LFX Crowdfunding.
-polar: your-polar-username # Thay bằng tên người dùng Polar.
-buy_me_a_coffee: your-buymeacoffee-drop-cmk # Thay bằng tên người dùng Buy Me a Coffee.
-thanks_dev: your-thanks-dev-username # Thay bằng tên người dùng thanks.dev.
 custom:
   - 'https://github.com/your-repo/contribute' # Link mời đóng góp trên GitHub.
   - 'https://discord.gg/your-community' # Link tham gia cộng đồng Discord.
