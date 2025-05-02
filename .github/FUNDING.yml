@@ -1,5 +1,4 @@
 github: drop-cmk # Thay bằng tên tài khoản GitHub của bạn.
-
 custom:
   - 'https://github.com/drop-cmk/UI_Unity' # Link mời đóng góp trên GitHub.
   - 'https://discord.gg/KWAmGYXc' # Link tham gia cộng đồng Discord.
